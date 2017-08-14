@@ -19,7 +19,6 @@
 		422A957C1F3C3AE200361295 /* JeffinSpeechModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 422A957B1F3C3AE200361295 /* JeffinSpeechModel.m */; };
 		422A957F1F3C426F00361295 /* JeffinSpeechView.m in Sources */ = {isa = PBXBuildFile; fileRef = 422A957E1F3C426F00361295 /* JeffinSpeechView.m */; };
 		422A95831F3D5A4400361295 /* BookContent.plist in Resources */ = {isa = PBXBuildFile; fileRef = 422A95821F3D5A4400361295 /* BookContent.plist */; };
-		428EE8661F416B8A001E94C5 /* IMG_23380.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 428EE8651F416B8A001E94C5 /* IMG_23380.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,7 +62,6 @@
 		422A957D1F3C426F00361295 /* JeffinSpeechView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JeffinSpeechView.h; sourceTree = "<group>"; };
 		422A957E1F3C426F00361295 /* JeffinSpeechView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JeffinSpeechView.m; sourceTree = "<group>"; };
 		422A95821F3D5A4400361295 /* BookContent.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BookContent.plist; sourceTree = "<group>"; };
-		428EE8651F416B8A001E94C5 /* IMG_23380.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_23380.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,7 +112,6 @@
 		422A95431F3C38B800361295 /* 简易听书AVSpeechSynthesizer */ = {
 			isa = PBXGroup;
 			children = (
-				428EE8651F416B8A001E94C5 /* IMG_23380.PNG */,
 				422A95471F3C38B800361295 /* AppDelegate.h */,
 				422A95481F3C38B800361295 /* AppDelegate.m */,
 				422A957A1F3C3AE200361295 /* JeffinSpeechModel.h */,
@@ -276,7 +273,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				428EE8661F416B8A001E94C5 /* IMG_23380.PNG in Resources */,
 				422A95541F3C38B800361295 /* LaunchScreen.storyboard in Resources */,
 				422A95831F3D5A4400361295 /* BookContent.plist in Resources */,
 				422A95511F3C38B800361295 /* Assets.xcassets in Resources */,
